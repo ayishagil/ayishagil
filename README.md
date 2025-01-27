@@ -1,2 +1,2 @@
-# ayishagil
+# SHAGIL
 Config files for my GitHub profile.
